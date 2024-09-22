@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xLuk3
 - 👀 I’m interested in front-end tech.
-- 🌱 I’m currently learning Javascript, HTML, Css, React.
+- 🌱 I’m currently learning Javascript, HTML, Css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Luscaeduardo_ on Instagram.
 
